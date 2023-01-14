@@ -1,0 +1,17 @@
+.AddItem{
+    background-color: gray;
+    padding: 5px;
+    overflow: hidden;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.AddItem button{
+    height: 60px;
+    width: 150px;
+    border-radius: 10px;
+    
+    
+}
+
