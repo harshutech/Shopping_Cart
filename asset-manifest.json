@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https;//harshutech.github.io/Shopping_Cart/static/css/main.502d59d1.css",
-    "main.js": "/https;//harshutech.github.io/Shopping_Cart/static/js/main.50c27689.js",
-    "index.html": "/https;//harshutech.github.io/Shopping_Cart/index.html",
-    "main.502d59d1.css.map": "/https;//harshutech.github.io/Shopping_Cart/static/css/main.502d59d1.css.map",
-    "main.50c27689.js.map": "/https;//harshutech.github.io/Shopping_Cart/static/js/main.50c27689.js.map"
+    "main.css": "/Shopping_Cart/static/css/main.502d59d1.css",
+    "main.js": "/Shopping_Cart/static/js/main.50c27689.js",
+    "index.html": "/Shopping_Cart/index.html",
+    "main.502d59d1.css.map": "/Shopping_Cart/static/css/main.502d59d1.css.map",
+    "main.50c27689.js.map": "/Shopping_Cart/static/js/main.50c27689.js.map"
   },
   "entrypoints": [
     "static/css/main.502d59d1.css",
